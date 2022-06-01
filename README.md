@@ -37,8 +37,6 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 
 * Create and situate your axes and labels to the left and bottom of the chart.
 
-- - -
-
 ### Bonus: Impress the Boss (Optional Assignment)
 
 Why make a static graphic when D3 lets you interact with your data?
